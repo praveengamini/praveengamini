@@ -1,85 +1,87 @@
 <h1 align="center">Hi 👋, I'm Praveen Gamini</h1> 
-<h3 align="center">A passionate Full Stack (MERN) developer from India</h3>  
+<h3 align="center">🚀 Full Stack (MERN) Developer | Machine Learning Enthusiast 🌟</h3>  
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=praveengamini&label=Profile%20views&color=0e75b6&style=flat" alt="praveengamini" />
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=praveengamini&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 💼 About Me
-I am a Computer Science and Engineering student at **MVGR College of Engineering** with a current CGPA of **8.83**. I am passionate about web development, machine learning, and building innovative solutions. My goal is to create impactful products that solve real-world problems.
+## 💼 About Me  
+👨‍💻 **Computer Science and Engineering** student at **MVGR College of Engineering**  
+📚 **CGPA:** 8.83 (Till 5th Semester)  
+🎯 Passionate about building **scalable web applications** and **AI-driven solutions**  
 
 ---
 
-### 🚀 Skills
-- **Programming Languages:** C, Java, Python  
-- **Frontend:** ReactJS, HTML, CSS, JavaScript, TailwindCSS, EJS, JQuery  
-- **Backend:** NodeJS, ExpressJS, REST API  
-- **State Management:** Redux Toolkit  
-- **Databases:** MongoDB, SQL, Mongoose  
-- **Machine Learning:** TensorFlow.js, OpenCV, Scikit-learn, Mediapipe, Pandas, Seaborn  
-- **Other Tools:** Git, Postman, LM Studio  
+## 🚀 Skills  
+**💻 Programming:** C, Java, Python  
+**🌐 Frontend:** ReactJS, HTML, CSS, JavaScript, TailwindCSS, EJS, JQuery  
+**🔙 Backend:** NodeJS, ExpressJS, REST API  
+**📦 State Management:** Redux Toolkit  
+**💾 Databases:** MongoDB, SQL, Mongoose  
+**🧠 Machine Learning:** TensorFlow.js, OpenCV, Scikit-learn, Mediapipe, Pandas, Seaborn  
+**🛠️ Tools:** Git, Postman, LM Studio  
 
 ---
 
-### 🌟 Projects
-#### **RushToGo** *(MERN, Redux Toolkit)*  
-- A ticket booking platform similar to BookMyShow but allows **ticket transfers** between users.  
-- Simplifies refund policies and improves user experience for both customers and theatre management.
+## 🌟 Projects  
+### 🎯 **RushToGo** *(MERN, Redux Toolkit)*  
+➡️ A ticket booking platform similar to BookMyShow but allows **ticket transfers** between users.  
+➡️ Improves refund policies and enhances user experience for both customers and theatre management.  
 
-#### **Q-Mart** *(MERN, Redux Toolkit)*  
-- A full-stack e-commerce platform with admin and user dashboards.  
-- Features include product browsing, cart management, checkout, authentication, and payment integration.  
-- Built with Shadcn UI for a modern and responsive design.  
+### 🛍️ **Q-Mart** *(MERN, Redux Toolkit)*  
+➡️ Full-stack e-commerce platform with an admin panel and user dashboard.  
+➡️ Supports product browsing, cart management, authentication, and payment integration.  
+➡️ Built with **Shadcn UI** for a modern and responsive design.  
 
-#### **Smart-Fit** *(React, TensorFlow.js, Mediapipe)*  
-- A smart-fitting web app that uses computer vision to measure body dimensions.  
-- Provides accurate size recommendations, enhancing the online shopping experience.  
+### 🏋️‍♂️ **Smart-Fit** *(React, TensorFlow.js, Mediapipe)*  
+➡️ Uses computer vision to measure body dimensions and provide accurate size recommendations.  
+➡️ Enhances the online shopping experience with precise fitting suggestions.  
 
-#### **Therapy Chatbot** *(LM Studio, Python, React, Hugging Face)*  
-- A chatbot providing empathetic conversations and mental health support.  
-- Helps users cope with emotional challenges like depression, loneliness, and trauma.  
-
----
-
-### 🏆 Achievements
-- **Runner-Up** at Aviskaar Hackathon for developing a novel prototype solution.  
-- **Finalist** at IIT Kharagpur NLP Challenge for building a chatbot to support mental health.  
+### 🤖 **Therapy Chatbot** *(LM Studio, Python, React, Hugging Face)*  
+➡️ Provides empathetic conversations and mental health support.  
+➡️ Helps users cope with emotional challenges like depression and trauma.  
 
 ---
 
-### 🎓 Certifications
-- **C Programming (Elite)** – NPTEL  
-- **Cloud Computing (Elite)** – NPTEL  
-- **Full Stack Development** – Udemy  
-- **SQL** – HackerRank  
+## 🏆 Achievements  
+🥈 **Runner-Up** at **Aviskaar Hackathon** for a novel prototype solution.  
+🎯 **Finalist** at **IIT Kharagpur NLP Challenge** for developing a mental health chatbot.  
 
 ---
 
-### 🤝 Volunteering
-- **Swecha (Volunteer):** Conducted workshops on WordPress, UI/UX Development, and no-code programming.  
-- **Maharaja Coding Club:** Assisted in peer-to-peer learning and organized coding contests for 300–350 students.  
+## 🎓 Certifications  
+✅ **C Programming (Elite)** – NPTEL  
+✅ **Cloud Computing (Elite)** – NPTEL  
+✅ **Full Stack Development** – Udemy  
+✅ **SQL** – HackerRank  
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-    <a href="https://www.linkedin.com/in/praveen-gamini-3bb729273/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praveengamini" height="30" width="40" />
+## 🌍 Volunteering  
+🔹 **Swecha (Volunteer):** Conducted workshops on WordPress, UI/UX Development, and no-code programming.  
+🔹 **Maharaja Coding Club:** Assisted in peer-to-peer learning and organized coding contests for 300–350 students.  
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+    <a href="https://www.linkedin.com/in/praveen-gamini-3bb729273/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/praveengamini/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praveengamini" height="30" width="40" />
+    <a href="https://www.instagram.com/praveengamini/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.hackerrank.com/dashboard" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="praveengamini" height="30" width="40" />
+    <a href="https://www.hackerrank.com/dashboard" target="_blank">
+        <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white" alt="HackerRank" />
     </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
+## 🛠️ Languages and Tools  
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -89,28 +91,23 @@ I am a Computer Science and Engineering student at **MVGR College of Engineering
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=praveengamini&show_icons=true&theme=tokyonight&count_private=true" alt="Praveen's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=praveengamini&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveengamini&layout=compact&theme=radical" alt="Praveen's Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveengamini&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=praveengamini&theme=onedark" alt="Praveen's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=praveengamini&theme=onedark&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -120,3 +117,4 @@ I am a Computer Science and Engineering student at **MVGR College of Engineering
 📞 **Phone:** +91 7013268191  
 
 ---
+
