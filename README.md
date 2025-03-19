@@ -101,8 +101,16 @@ I am a Computer Science and Engineering student at **MVGR College of Engineering
 ---
 
 ### 📊 GitHub Stats
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveengamini&show_icons=true&locale=en&layout=compact" alt="praveengamini" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=praveengamini&show_icons=true&theme=tokyonight&count_private=true" alt="Praveen's GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveengamini&layout=compact&theme=radical" alt="Praveen's Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=praveengamini&theme=onedark" alt="Praveen's Trophies" />
 </p>
 
 ---
@@ -112,4 +120,3 @@ I am a Computer Science and Engineering student at **MVGR College of Engineering
 📞 **Phone:** +91 7013268191  
 
 ---
-
