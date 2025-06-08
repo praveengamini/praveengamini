@@ -26,22 +26,23 @@
 ---
 
 ## 🌟 Projects  
-### 🎯 **RushToGo** *(MERN, Redux Toolkit)*  
-➡️ A ticket booking platform similar to BookMyShow but allows **ticket transfers** between users.  
-➡️ Improves refund policies and enhances user experience for both customers and theatre management.  
+
+### 📄 ChatPDF – AI Document Interaction
+➡️Interact with PDFs using natural language powered by LangChain, HuggingFace, and FastAPI.  
+➡️🔍 Supports semantic search, conversational Q&A, and secure JWT-based auth in a MERN stack app. 
 
 ### 🛍️ **Q-Mart** *(MERN, Redux Toolkit)*  
 ➡️ Full-stack e-commerce platform with an admin panel and user dashboard.  
 ➡️ Supports product browsing, cart management, authentication, and payment integration.  
-➡️ Built with **Shadcn UI** for a modern and responsive design.  
+➡️ Built with **Shadcn UI** for a modern and responsive design. 
+
+### 🎯 **RushToGo** *(MERN, Redux Toolkit)*  
+➡️ A ticket booking platform similar to BookMyShow but allows **ticket transfers** between users.  
+➡️ Improves refund policies and enhances user experience for both customers and theatre management.  
 
 ### 🏋️‍♂️ **Smart-Fit** *(React, TensorFlow.js, Mediapipe)*  
 ➡️ Uses computer vision to measure body dimensions and provide accurate size recommendations.  
 ➡️ Enhances the online shopping experience with precise fitting suggestions.  
-
-### 🤖 **Therapy Chatbot** *(LM Studio, Python, React, Hugging Face)*  
-➡️ Provides empathetic conversations and mental health support.  
-➡️ Helps users cope with emotional challenges like depression and trauma.  
 
 ---
 
