@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 
 ## 🌟 Featured Projects
 
-### 🎫 [RushToGo](https://github.com/praveengamini/rushto-go)
+### 🎫 [RushToGo](https://github.com/praveengamini/RushToGo)
 **Full-stack ticketing platform** | *MERN, Redux Toolkit*
 - Built a platform enabling **100% ticket transfers** to reduce cancellations
 - Onboarded **50+ beta testers** during college event
