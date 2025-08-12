@@ -55,18 +55,18 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 - Improved refund policy workflow enhancing user satisfaction
 
 ### 🛒 [Q-Mart E-Commerce](https://github.com/praveengamini/q-mart)
-**E-commerce platform** | *MERN, Redux Toolkit, Razorpay*
+**E-commerce platform** | *MERN, Redux Toolkit, Paypal*
 - Developed with **role-based access** for Admin, Seller, and User
 - Achieved **90%+ UI responsiveness** across devices
 - Successfully integrated payment gateway with 10+ test transactions
 
-### 📝 [Meeting Summarizer](https://github.com/praveengamini/meeting-summarizer)
+### 📝 [Meeting Summarizer](https://github.com/praveengamini/MeetingExtension)
 **AI-powered meeting assistant** | *WebRTC, React, Hugging Face*
 - Real-time audio transcription with **85%+ accuracy**
 - Automated PDF generation and email delivery
 - Reduced manual note-taking effort by **~70%**
 
-### 💬 [ChatPDF](https://github.com/praveengamini/chatpdf)
+### 💬 [ChatPDF](https://github.com/praveengamini/ChatPdf)
 **Document AI chatbot** | *MERN, LangChain, HuggingFace*
 - Natural language queries on PDF documents
 - Supported **50+ PDFs** in test environment
