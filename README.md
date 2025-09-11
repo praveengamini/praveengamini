@@ -72,8 +72,6 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 - Supported **50+ PDFs** in test environment
 - Achieved **~1s response time** with optimized API integration
   
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=praveengamini&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveengamini&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
 📈 Contribution Stats
 <div align="center"> <!-- Detailed Stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveengamini&theme=radical" alt="Profile Summary" /> </div> <div align="center"> <!-- Most Commit Language Stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveengamini&theme=radical" alt="Most Commit Language" /> </div> <div align="center"> <!-- Productivity Stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praveengamini&theme=radical" alt="Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praveengamini&theme=radical&utcOffset=5.5" alt="Productive Time" /> </div>
 
