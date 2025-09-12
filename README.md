@@ -77,7 +77,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 <div align="center">
   
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=praveengamini&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praveengamini&theme=radical)
 
 ### 📊 Contribution Overview
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveengamini&theme=radical" alt="Profile Summary" />
