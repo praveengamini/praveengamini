@@ -71,10 +71,25 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 - Natural language queries on PDF documents
 - Supported **50+ PDFs** in test environment
 - Achieved **~1s response time** with optimized API integration
-  
-📈 Contribution Stats
-<div align="center"> <!-- Detailed Stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveengamini&theme=radical" alt="Profile Summary" /> </div> <div align="center"> <!-- Most Commit Language Stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveengamini&theme=radical" alt="Most Commit Language" /> </div> <div align="center"> <!-- Productivity Stats --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praveengamini&theme=radical" alt="Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praveengamini&theme=radical&utcOffset=5.5" alt="Productive Time" /> </div>
 
+## 📈 GitHub Stats & Contributions
+
+<div align="center">
+  
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=praveengamini&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)](https://git.io/streak-stats)
+
+### 📊 Contribution Overview
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveengamini&theme=radical" alt="Profile Summary" />
+
+### 💻 Coding Statistics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praveengamini&theme=radical" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praveengamini&theme=radical" alt="Stats" />
+
+### ⏰ Productive Hours
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praveengamini&theme=radical&utcOffset=5.5" alt="Productive Time" />
+
+</div>
 
 ## 🏆 Achievements & Certifications
 
