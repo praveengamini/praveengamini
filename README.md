@@ -111,7 +111,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 - 👥 **Students Mentored**: 40+ through workshops
 
 ## 🌐 Connect with Me
-
+ 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://praveengamini.netlify.app)
