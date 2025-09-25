@@ -94,11 +94,15 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **Hackathon Winner** - Outperformed 50+ teams with ticket-resale platform prototype
-- 🏅 **Top 15/200+** - Mental health chatbot with NLP integration
-- 📜 **Elite Certifications** - C Programming (NPTEL), Cloud Computing (NPTEL)
-- 🎯 **SQL Certified** - HackerRank
-- 👨‍🏫 **Workshop Speaker** - Conducted 3-day MERN Stack workshop for 40+ students
+-🥇 Hackathon Winner – Avishkar (National Level, 2024) – Outperformed 50+ qualified teams with ticket-resale platform prototype
+
+-🥇 Hackathon Winner – Sankalp 2025, MVGR College of Engineering – Developed innovative solutions to secure the top position
+
+-🏅 Top 15/200+ – Kshitij 2025, IIT Kharagpur – Built a mental health chatbot with NLP integration
+
+-📜 Elite Certifications – C Programming (NPTEL), Cloud Computing (NPTEL)
+
+-👨‍🏫 Workshop Speaker – Conducted 3-day MERN Stack workshop for 40+ students
 
 ## 🤝 Leadership & Community
 
