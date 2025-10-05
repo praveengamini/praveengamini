@@ -53,11 +53,12 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 
 ## 🌟 Featured Projects
 
-### 🎫 [RushToGo](https://github.com/praveengamini/RushToGo)
-**Full-stack ticketing platform** | *MERN, Redux Toolkit*
-- Built a platform enabling **100% ticket transfers** to reduce cancellations
-- Onboarded **50+ beta testers** during college event
-- Improved refund policy workflow enhancing user satisfaction
+### 🤖 [Ai-TaskFlow](https://github.com/praveengamini/Ai-TaskFlow)  
+**AI-powered task planner** | *React, Node.js, FastAPI*  
+- Automated **weekly & daily goal generation**, reducing manual effort by **70%**  
+- Designed a **3-tier system** handling 100+ real-time tasks per user  
+- Secured platform with **Firebase JWT authentication** for 100% protected sessions  
+
 
 ### 🛒 [Q-Mart E-Commerce](https://github.com/praveengamini/q-mart)
 **E-commerce platform** | *MERN, Redux Toolkit, Paypal*
