@@ -1,21 +1,28 @@
 # Hi there! 👋 I'm Gamini Praveen
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Developer+Intern;MERN+Stack+Specialist;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in the **MERN stack** with 2+ years of experience building scalable, user-focused web applications. Currently pursuing B.Tech in Computer Science Engineering at MVGR College of Engineering, Vizianagaram.
+I'm a passionate **Full Stack Developer** specializing in the **MERN stack** with 2+ years of experience building scalable, user-focused web applications. Currently working as a **Software Developer Intern at Madtin Technologies** and pursuing B.Tech in Computer Science Engineering at MVGR College of Engineering, Vizianagaram.
 
-- 🔭 I'm currently working on **AI-powered web applications**
+- 💼 I'm currently working as a **Software Developer Intern at Madtin Technologies**
+- 🔭 Building **AI-powered web applications** and scalable solutions
 - 🌱 I'm exploring **LangChain, Hugging Face, and advanced LLM integrations**
 - 👯 I'm looking to collaborate on **innovative full-stack projects**
 - 💬 Ask me about **React, Node.js, MongoDB, AI integration**
 - 📫 How to reach me: **praveengamini009@gmail.com**
 - ⚡ Fun fact: I've conducted workshops for 40+ students and helped organize coding contests for 250+ participants!
 
+## 💼 Professional Experience
 
+### Software Developer Intern | Madtin Technologies
+*Current*
+- Working on full-stack development projects using modern web technologies
+- Contributing to scalable and efficient software solutions
+- Collaborating with cross-functional teams on product development
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +43,6 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +65,6 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 - Designed a **3-tier system** handling 100+ real-time tasks per user  
 - Secured platform with **Firebase JWT authentication** for 100% protected sessions  
 
-
 ### 🛒 [Q-Mart E-Commerce](https://github.com/praveengamini/q-mart)
 **E-commerce platform** | *MERN, Redux Toolkit, Paypal*
 - Developed with **role-based access** for Admin, Seller, and User
@@ -81,7 +86,6 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 ## 📈 GitHub Stats & Contributions
 
 <div align="center">
-  
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praveengamini&theme=radical)
@@ -100,15 +104,15 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 
 ## 🏆 Achievements & Certifications
 
--🥇 Hackathon Winner – Avishkar (National Level, 2024) – Outperformed 50+ qualified teams with ticket-resale platform prototype
+- 🥇 Hackathon Winner – Avishkar (National Level, 2024) – Outperformed 50+ qualified teams with ticket-resale platform prototype
 
--🥇 Hackathon Winner – Sankalp 2025, MVGR College of Engineering – Developed innovative solutions to secure the top position
+- 🥇 Hackathon Winner – Sankalp 2025, MVGR College of Engineering – Developed innovative solutions to secure the top position
 
--🏅 Top 15/200+ – Kshitij 2025, IIT Kharagpur – Built a mental health chatbot with NLP integration
+- 🏅 Top 15/200+ – Kshitij 2025, IIT Kharagpur – Built a mental health chatbot with NLP integration
 
--📜 Elite Certifications – C Programming (NPTEL), Cloud Computing (NPTEL)
+- 📜 Elite Certifications – C Programming (NPTEL), Cloud Computing (NPTEL)
 
--👨‍🏫 Workshop Speaker – Conducted 3-day MERN Stack workshop for 40+ students
+- 👨‍🏫 Workshop Speaker – Conducted 3-day MERN Stack workshop for 40+ students
 
 ## 🤝 Leadership & Community
 
@@ -117,7 +121,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 
 ## 📈 Current Stats
 - 🎓 **CGPA**: 8.70/10 (6th Semester)
-- 💼 **Experience**: 3+ projects in full-stack development
+- 💼 **Experience**: Software Developer Intern | 3+ full-stack projects
 - 🏗️ **Projects**: 10+ completed projects
 - 👥 **Students Mentored**: 40+ through workshops
 
